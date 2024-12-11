@@ -11,6 +11,7 @@ This project automates the testing of a vacation rental details page to validate
 - **Test Site URL:** https://www.alojamiento.io/
 
 ## Tests Performed
+ * There will open 4 tabs , for first 3 there will be 1 tab and for each of rest there will be separate tab for checking/testing..
 1. **H1 Tag Existence Test:** Checks if the H1 tag is present, and reports a failure if it is missing.
 2. **HTML Tag Sequence Test:** Checks if the [H1-H6] tag sequence is correct, and reports a failure if the sequence is broken or missing.
 3. **Image Alt Attribute Test:** Checks if the image alt attribute is present, and reports a failure if it is missing.
@@ -20,7 +21,7 @@ This project automates the testing of a vacation rental details page to validate
 
 ## Acceptance Criteria
 1. The code and methods should be reusable.
-2. The report model should include page_url, testcase, passed/fail, and comments.
+2. The report model will include Page Url, Testcase, Status, Comments.
 
 ## Getting Started
 
