@@ -33,10 +33,15 @@ This project automates the testing of a vacation rental details page to validate
    ```
 2. Create a virtual environment and activate it:
    ```
-   python -m venv my_env
+   python3 -m venv my_env
    ```
+   # On Mac/linux OS us
    ```
-   source my_env/bin/activate  # On Windows, use `my_env\Scripts\activate`
+   source my_env/bin/activate 
+   ```
+   # On Windows, use
+   ```
+     my_env\Scripts\activate
    ```
 
 3. Install the required dependencies:
